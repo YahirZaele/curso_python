@@ -16,6 +16,7 @@ Repositorio con apuntes, ejercicios prácticos y proyectos desarrollados durante
   - `04_lists_exercises.py`: Operaciones y métodos con listas.
   - `05_tuples_exercises.py`: Ejercicios con tuplas y sus propiedades.
   - `06_sets_exercises.py`: Manejo de conjuntos (sets) y operaciones de conjuntos.
+  - `07_dicts_exercises.py`: Manejo de diccionarios (dicts), métodos clave y casos prácticos.
 
 ---
 
